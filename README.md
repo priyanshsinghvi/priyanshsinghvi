@@ -12,7 +12,7 @@
 - 👀 **Interests:** ML, AI, Blockchain, and recipes that don’t burn the kitchen.  
 - 🌱 **Currently learning:** How to train models and not overcook ideas.  
 - 💞️ **Looking to collaborate on:** Projects that mix innovation with fun (bonus if snacks are involved).  
-- 📫 **Reach me:** [Email me here](priyanshsinghvi0308@gmail.com) or send a carrier pigeon (results may vary).  
+- 📫 **Reach me:** [Email me here](mailto:priyanshsinghvi0308@gmail.com) or send a carrier pigeon (results may vary).  
 - ⚡ **Fun fact:** My debug process is faster than my onion chopping skills!  
 
 ---
@@ -28,9 +28,3 @@
 “Why settle for just making software intelligent when you can make dinner interesting too?”  
 
 ---
-
-
-<!---
-priyanshsinghvi/priyanshsinghvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
