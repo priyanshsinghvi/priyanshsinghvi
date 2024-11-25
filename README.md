@@ -20,8 +20,8 @@
 ---
 
 ## 🔧 Tech Stack  
-**Languages:** Python, C++, and a pinch of HTML/CSS.
-**Libraries/Tools:** TensorFlow, PyTorch, NumPy, Pandas and whatever pairs well with caffeine.
+**Languages:** Python, C++, and a pinch of HTML/CSS.  
+**Libraries/Tools:** TensorFlow, PyTorch, NumPy, Pandas and whatever pairs well with caffeine.  
 **Special Skills:** Breaking things (software, plates, and occasionally my patience) while binge-watching, experimenting in the kitchen, and “debugging” ML models.
 
 ---
