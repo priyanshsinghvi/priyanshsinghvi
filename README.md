@@ -12,7 +12,7 @@
 - 👀 **Interests:** ML, AI, Blockchain, and recipes that don’t burn the kitchen.  
 - 🌱 **Currently learning:** How to train models and not overcook ideas.  
 - 💞️ **Looking to collaborate on:** Projects that mix innovation with fun (bonus if snacks are involved).  
-- 📫 **Reach me:** [Email me here](mailto:your-email@example.com) or send a carrier pigeon (results may vary).  
+- 📫 **Reach me:** [Email me here](priyanshsinghvi0308@gmail.com) or send a carrier pigeon (results may vary).  
 - ⚡ **Fun fact:** My debug process is faster than my onion chopping skills!  
 
 ---
